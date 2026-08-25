@@ -29,7 +29,7 @@ apt install -y nodejs wget tar
 mkdir -p contento24/
 cd contento24/
 wget https://github.com/contento24/contento24/releases/latest/download/contento24.tar.zst
-tar -xzf contento24.tar.zst
+tar -xvf contento24.tar.zst
 rm contento24.tar.zst
 ```
 
