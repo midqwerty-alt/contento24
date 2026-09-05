@@ -18,3 +18,6 @@ pnpm-debug.log*
 
 # VSCode setting floder
 .vscode/
+
+# Fuck pnpm-lock
+pnpm-lock.yaml
