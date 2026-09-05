@@ -57,5 +57,4 @@ jobs:
         uses: moaeiou/moaeiou/actions/rsync@main
         with:
           local: contento24.tar.zst
-          remote: /var/www/html/
           key: ${{ secrets.SSH_KEY }}
